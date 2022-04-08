@@ -4,11 +4,17 @@
 Multidisciplinary, driven Data Analyst with a passion for condensing extensive data into a simple to understand story. Recently graduated,  certificate in Data Analytics from University of Toronto. Currently employed as a fraud specialist, analyzing player trends to prevent fraud and AML. Adept at working independently and collaborating with teams across multiple functions to take information from a wide variety of sources and effectively break down concepts in layman terms to diverse audiences. Excels at solving complex problems. I applied ETL, ML, Databases, Tableau and agile development in a recent project where I worked in a team of four to predict the future of job vacancies within Canadian job sectors utilizing MLP regressor and Sarimax, allowing business to see the effect that covid had on the job market and adjust accordingly.  
 </p>
 
-<br>
-
 ### Technoligies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/IDE-VisualStudioCode-informational?style=flat&logo=visualstudio&logoColor=white)
+![](https://img.shields.io/badge/IDE-VisualStudioCode-informational?style=flat&logo=visualstudio&logoColor=white)
+![](https://img.shields.io/badge/IDE-VisualStudioCode-informational?style=flat&logo=visualstudio&logoColor=white)
+![](https://img.shields.io/badge/IDE-VisualStudioCode-informational?style=flat&logo=visualstudio&logoColor=white)
+![](https://img.shields.io/badge/IDE-VisualStudioCode-informational?style=flat&logo=visualstudio&logoColor=white)
+![](https://img.shields.io/badge/IDE-VisualStudioCode-informational?style=flat&logo=visualstudio&logoColor=white)
+![](https://img.shields.io/badge/IDE-VisualStudioCode-informational?style=flat&logo=visualstudio&logoColor=white)
 
 <br>
 
