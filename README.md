@@ -6,24 +6,11 @@ Multidisciplinary, driven Data Analyst with a passion for condensing extensive d
 
 <br>
 
-### My trusty tools
-<p> 
-  
-  <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="javascript.png" /></a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="typescript.png" /></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="35px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="35px">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo" width="35px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="35px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35px">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849650/twilio_j6qvbk.png" width="35px" alt="twilio-logo">
-  
-</p>
+### Technoligies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 <br>
-
-
 
 **Stuff about me:**
 
