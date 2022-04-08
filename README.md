@@ -16,6 +16,9 @@ Multidisciplinary, driven Data Analyst with a passion for condensing extensive d
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=vmware&logoColor=white)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white)
+![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=vmware&logoColor=white)
+![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=vmware&logoColor=white)
 
 <br>
 
@@ -28,7 +31,6 @@ Multidisciplinary, driven Data Analyst with a passion for condensing extensive d
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecngai&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/alecngai/github-readme-stats)
-
  
 [![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecngai&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/alecngai/github-readme-stats)
   
