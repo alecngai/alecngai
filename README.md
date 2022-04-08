@@ -32,8 +32,12 @@ Multidisciplinary, driven Data Analyst with a passion for condensing extensive d
 - 💬 Have an **Idea**? Lets **Talk**!
 - 📝 Resume available upon request
 
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecngai&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/alecngai/github-readme-stats)
+
  
-[![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecngai&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/alecngai/github-readme-stats)<div align="center">
+[![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecngai&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/alecngai/github-readme-stats)
   
 📫 [![Linkedin Badge](https://img.shields.io/badge/-henryngann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-ngan-183620b6)](https://www.linkedin.com/in/henry-ngan-183620b6)[![Gmail Badge](https://img.shields.io/badge/-henrynganwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrynganwork@gmail.com)](mailto:henrynganwork@gmail.com)
 
