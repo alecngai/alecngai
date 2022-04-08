@@ -50,7 +50,6 @@ Multidisciplinary, driven Data Analyst with a passion for condensing extensive d
   
 📫 [![Linkedin Badge](https://img.shields.io/badge/-alecngai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alecngai/)](https://www.linkedin.com/in/alecngai/)
 [![Gmail Badge](https://img.shields.io/badge/-alecngai.jobs@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alecngai.jobs@gmail.com)](mailto:alecngai.jobs@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-alec_ngai-ff69b4?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/alec_ngai/)](https://www.instagram.com/alec_ngai/)
 
 </div>
 
