@@ -14,10 +14,9 @@ Multidisciplinary, driven Data Analyst with a passion for condensing extensive d
 
 **Stuff about me:**
 
-- 👨🏽‍💻 I work at Rally Cry as a Software Engineer!
-- 🌱 I'm currently learning the intricacies of Kotlin!
+- 👨🏽‍💻 I'm currently working at NSUS group Inc as a Fraud Specialist 
+- 🌱 Outside of the world of tech, I love pushing myself to develop new skills, ranging from rock climbing, snowboarding, and cooking! 
 - 💬 Have an **Idea**? Lets **Talk**!
-- 📝 Resume available upon request
 
 <div align="center">
   
