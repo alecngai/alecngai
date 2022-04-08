@@ -26,8 +26,9 @@ Multidisciplinary, driven Data Analyst with a passion for condensing extensive d
  
 [![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecngai&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/alecngai/github-readme-stats)
   
-📫 [![Linkedin Badge](https://img.shields.io/badge/-alecngai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alecngai/)](https://www.linkedin.com/in/alecngai/))
-[![Gmail Badge](https://img.shields.io/badge/-henrynganwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrynganwork@gmail.com)](mailto:henrynganwork@gmail.com)
+📫 [![Linkedin Badge](https://img.shields.io/badge/-alecngai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alecngai/)](https://www.linkedin.com/in/alecngai/)
+[![Gmail Badge](https://img.shields.io/badge/-alecngai.jobs@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alecngai.jobs@gmail.com)](mailto:alecngai.jobs@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-alec_ngai-ff69b4?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/alec_ngai/)](https://www.instagram.com/alec_ngai/)
 
 </div>
 
