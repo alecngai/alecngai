@@ -27,6 +27,7 @@ Multidisciplinary, driven Data Analyst with a passion for condensing extensive d
 ![](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=vmware&logoColor=white)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=vmware&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Keras-informational?style=flat&logo=Keras&logoColor=white)
 ![](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white)
