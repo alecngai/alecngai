@@ -38,7 +38,7 @@ Multidisciplinary, driven Data Scientist with a passion for condensing extensive
 
 ### Stuff about me:
 
-- 👨🏽‍💻 I'm currently working at NSUS group Inc as a Fraud Specialist 
+- 👨🏽‍💻 I'm currently working at NSUS group Inc as a Fraud Analyst 
 - 🌱 Outside of the world of tech, I love pushing myself to develop new skills, ranging from rock climbing, snowboarding, and cooking! 
 - 💬 Have an **Idea**? Lets **Talk**!
 
